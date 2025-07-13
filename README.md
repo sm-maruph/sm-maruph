@@ -23,14 +23,19 @@
 
 ---
 
+---
+
 ### 🧸 Animated Pokémon Running Around 💨
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/pika_1.gif" width="80" />
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/pika_2.gif" width="80" />
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/pika_3.gif" width="80" />
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/pika_4.gif" width="80" />
+  <img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/3o7TKyScd0zjUPy3Gk/giphy.gif" width="80" />
 </div>
+
+---
+
 
 ---
 
