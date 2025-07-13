@@ -25,16 +25,9 @@
 
 ---
 
-### 🧸 Animated Pokémon Running Around 💨
-
-<div align="center">
-  <img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="80" />
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="80" />
-  <img src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" width="80" />
-  <img src="https://media.giphy.com/media/3o7TKyScd0zjUPy3Gk/giphy.gif" width="80" />
-</div>
-
----
+<p align="center">
+  <img src="https://github-contributions.vercel.app/api?username=sm-maruph&theme=pacman" />
+</p>
 
 
 ---
