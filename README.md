@@ -30,7 +30,7 @@
   <img alt="pacman contribution graph" src="https://gitlab.com/[sm-maruph]/[sm-maruph]/-/raw/main/output/pacman-contribution-graph-light.svg">
 </picture>
 
-
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 ---
 
 ### 🏆 GitHub Trophies
